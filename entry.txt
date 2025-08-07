@@ -30,3 +30,4 @@ Person-2 ENTRADA: 2025-08-01 11:31:45 (-22.2211, -54.8056) SAIDA: 2025-08-01 11:
 Person-46 ENTRADA: 2025-08-01 16:06:54 (Não foi possível determinar a localização.) SAIDA: 2025-08-01 16:30:29 (Não foi possível determinar a localização.)
 Person-48 ENTRADA: 2025-08-01 16:45:27 (Não foi possível determinar a localização.) SAIDA: 2025-08-01 17:04:42 (Não foi possível determinar a localização.)
 Person-63 ENTRADA: 2025-08-01 16:15:11 (Não foi possível determinar a localização.) SAIDA: 2025-08-01 16:16:33 (Não foi possível determinar a localização.)
+Arquivo encontrado
