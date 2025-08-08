@@ -2,3 +2,9 @@
 
 Person-44 ENTRADA: 2025-08-07 17:39:25 (-22.2211, -54.8056$SAIDA: 2025-08-07 17:41:22 (-22.2211, -54.8056)
 Person-1 ENTRADA: 2025-08-07 17:49:17 (-22.2211, -54.8056$SAIDA: 2025-08-07 17:49:27 (-22.2211, -54.8056)
+Person-51 ENTRADA: 2025-08-08 10:29:05 (Não foi possível determinar a localização.$SAIDA: 2025-08-08 11:21:58 (Não foi possível determinar a localização.)
+Person-52 ENTRADA: 2025-08-08 10:56:07 (Não foi possível determinar a localização.$SAIDA: 2025-08-08 11:51:48 (Não foi possível determinar a localização.)
+Person-49 ENTRADA: 2025-08-08 11:05:59 (Não foi possível determinar a localização.$SAIDA: 2025-08-08 12:00:39 (Não foi possível determinar a localização.)
+Person-55 ENTRADA: 2025-08-08 10:43:37 (Não foi possível determinar a localização.$SAIDA: 2025-08-08 12:09:13 (Não foi possível determinar a localização.)
+Person-56 ENTRADA: 2025-08-08 11:59:55 (Não foi possível determinar a localização.$SAIDA: 2025-08-08 12:12:16 (Não foi possível determinar a localização.)
+Person-54 ENTRADA: 2025-08-08 11:51:43 (Não foi possível determinar a localização.$SAIDA: 2025-08-08 12:40:57 (Não foi possível determinar a localização.)
