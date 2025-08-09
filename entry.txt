@@ -11,3 +11,4 @@ Person-54 ENTRADA: 2025-08-08 11:51:43 (Não foi possível determinar a localiza
 Person-65 ENTRADA: 2025-08-08 14:40:49 (Não foi possível determinar a localização.$SAIDA: 2025-08-08 15:07:30 (Não foi possível determinar a localização.)
 Person-67 ENTRADA: 2025-08-08 14:50:18 (Não foi possível determinar a localização.$SAIDA: 2025-08-08 15:15:51 (Não foi possível determinar a localização.)
 Person-69 ENTRADA: 2025-08-08 15:15:35 (Não foi possível determinar a localização.$SAIDA: 2025-08-08 16:34:32 (-15.7797, -47.9297)
+Person-73 ENTRADA: 2025-08-09 06:51:10 (-15.7797, -47.9297$SAIDA: 2025-08-09 06:51:12 (-15.7797, -47.9297)
