@@ -26,3 +26,4 @@ Person-153 ENTRADA: 2025-08-14 11:46:42 (Não foi possível determinar a localiz
 Person-154 ENTRADA: 2025-08-14 11:47:12 (Não foi possível determinar a localização.$SAIDA: 2025-08-14 11:47:26 (Não foi possível determinar a localização.)
 Person-159 ENTRADA: 2025-08-14 12:39:26 (Não foi possível determinar a localização.$SAIDA: 2025-08-14 12:48:14 (Não foi possível determinar a localização.)
 Person-164 ENTRADA: 2025-08-14 15:19:40 (Não foi possível determinar a localização.$SAIDA: 2025-08-14 15:50:09 (Não foi possível determinar a localização.)
+Person-183 ENTRADA: 2025-08-15 16:02:37 (Não foi possível determinar a localização.$SAIDA: 2025-08-15 16:02:38 (Não foi possível determinar a localização.)
